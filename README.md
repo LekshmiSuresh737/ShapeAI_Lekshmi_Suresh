@@ -1,7 +1,4 @@
 
-Edit with the Docs app
-Make tweaks, leave comments, and share with others to edit at the same time.
-NO THANKSUSE THE APP
 
 Python and Deep Learning ReadMe
 # SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
